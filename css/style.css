@@ -1,3 +1,10 @@
+.web-name{
+   color: #4A4A4A;
+}
+.color--change{
+    background-color: #289BDE;
+}
+
 .slide-caption{
     top:20%;
 }
