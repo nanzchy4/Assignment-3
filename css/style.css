@@ -1,0 +1,15 @@
+.slide-caption{
+    top:20%;
+}
+.slide-heading{
+    font-size: 4vw;
+}
+.slide-paragraph-mobile{
+    font-size: 2vw
+}
+input{
+    padding: 5px 0;
+  }
+footer{
+    height: 350px;
+  }
